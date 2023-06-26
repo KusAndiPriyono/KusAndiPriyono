@@ -2,8 +2,6 @@
 
 
 Perkenalkan nama saya **Kus Andi Priyono**.\
-Saya seorang **Curiculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi Front End and Back End dengan dibekali [Fundamental Front End Web Development](https://www.dicoding.com/certificates/81P2887JQPOY) dan [Front End Web Developer Expert](https://www.dicoding.com/certificates/MEPJKJM96X3V).\
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/kusandipriyono428715b7/)ku ya
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
